@@ -13,7 +13,7 @@ The new version 2.0 is based on **[AFNetworking](https://github.com/AFNetworking
 If a new version is available, PSUpdateApp presents an UIAlertView, that informs you of the newer version, and gives you the option to update the application.<br />
 The component is based on **[AFNetworking](https://github.com/AFNetworking/AFNetworking/ "AFNetworking")** framework, using [`AFJSONRequestOperation`](http://afnetworking.github.com/AFNetworking/Classes/AFJSONRequestOperation.html) method to read and parse the JSON response.<br />
 
-##Getting Started
+## Getting Started
 
 ### Installation
 
